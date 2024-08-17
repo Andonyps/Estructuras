@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\brent\source\repos\Correcciones finales\Correcciones finales\Source.cpp(6,1): warning C4005: 'getch': redefinición de macro
+C:\Users\brent\source\repos\Correcciones finales\Correcciones finales\Source.cpp(5): message : vea la definición anterior de 'getch'
+  Correcciones finales.vcxproj -> C:\Users\brent\source\repos\Correcciones finales\Debug\Correcciones finales.exe
